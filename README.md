@@ -13,7 +13,7 @@ Proyek ini membahas dua pendekatan utama dalam *State Management* di Flutter, ya
 ## 🔍 Perbandingan Kedua Metode
 
 ### ***Ephemeral State Management* ('StatefulWidget')**
-Pada *Ephemeral State Management*, data disimpan dalam `StatefulWidget` dan hanya tersedia untuk widget tersebut, sehingga perubahan data hanya akan mempengaruhi *widget* tempat data berada. 
+Pada *Ephemeral State Management*, data disimpan dalam `StatefulWidget` dan hanya tersedia untuk *widget* tersebut, sehingga perubahan data hanya akan mempengaruhi *widget* tempat data berada. 
 - ***Emphermal State Management* dapat digunakan untuk, antara lain:**
   - Membuat tombol sederhana untuk menaikkan nilai.
   - Mengelola input dalam satu form kecil.
