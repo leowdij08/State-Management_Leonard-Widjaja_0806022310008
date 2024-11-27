@@ -4,7 +4,7 @@ Leonard Widjaja - 0806022310008
 # *State Management* di Flutter: ***Ephemeral State Management*** vs ***App State Management***
 
 ## 📖 Tentang Proyek
-Proyek ini membahas dua pendekatan utama dalam *State Management* di Flutter:
+Proyek ini membahas dua pendekatan utama dalam *State Management* di Flutter, yaitu:
 1. **Ephemeral State Management**: Mengelola data lokal dalam *widget* menggunakan `StatefulWidget`.
 2. **App State Management**: Mengelola data global yang dapat diakses di seluruh aplikasi menggunakan *package* `scoped_model`.
 
